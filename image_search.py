@@ -1,8 +1,6 @@
 # -----------------------------------------
 # Author: Leonardo Villalobos
 # Date: 3/18/2021
-# Instructor: Professor Avner Biblarz
-# Course: CST-205
 # Description: Prompts the user to enter a search
 # and select a filter. Displays the appropriate
 # image and filter, depending on the image metadata
